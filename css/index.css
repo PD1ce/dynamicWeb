@@ -1,0 +1,42 @@
+<html>
+
+
+body {
+
+}
+
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+div#header {
+	background-color: #FF0000;
+	width: 100%;
+}
+div#container {
+	background-color: #00FF00;
+	width: 50%;
+}
+div#main-content {
+	background-color: #0000FF;
+	width: 50%;
+}
+div#sub-content {
+	background-color: #FF00FF;
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
